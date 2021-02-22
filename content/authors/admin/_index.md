@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi. I'm an experienced Software Developer. My key areas of experience and expertise include Web Development, Android Development(Native apps & PWAs) and Artificial Intelligence. I have worked with Companies and various teams as a Developer.
+Hi. I'm John Ndichu,an experienced Software Developer. My key areas of experience and expertise include Web Development, Android Development(Native apps & PWAs) and Artificial Intelligence. I have worked with Companies and various teams as a Developer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
