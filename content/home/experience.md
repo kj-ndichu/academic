@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
   - title: Lecturer
     company: Transafric College
-    company_url: ''
+    company_url: 'https://web.facebook.com/TACCOLLEGE/?_rdc=1&_rdr'
     location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2019-01-01'
+    date_end: '2019-12-12'
     description: |2-
         Responsibilities include:
         
@@ -37,7 +37,7 @@ experience:
         
   - title: Software Developer
     company: Payconnect Ltd
-    company_url: ''
+    company_url: 'https://payconnect.co.ke/'
     location: California
     date_start: '2016-01-01'
     date_end: '2016-12-31'
