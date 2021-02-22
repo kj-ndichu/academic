@@ -25,21 +25,21 @@ experience:
   - title: Lecturer
     company: Transafric College
     company_url: 'https://web.facebook.com/TACCOLLEGE/?_rdc=1&_rdr'
-    location: California
+    location: Thika Kenya
     date_start: '2019-01-01'
     date_end: '2019-12-12'
     description: |2-
-        Responsibilities include:
+        Taught the following:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Programming
+        * Networking and cyber security
+        * Web design
         
   - title: Software Developer
     company: Payconnect Ltd
     company_url: 'https://payconnect.co.ke/'
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Nairobi kenya
+    date_start: '2018-01-01'
+    date_end: '2019-12-12'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
