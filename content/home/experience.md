@@ -34,7 +34,8 @@ experience:
         * Programming
         * Networking and Cyber Security
         * Web Design
-    - title: Software Developer
+
+   - title: Software Developer
     company: Payconnect Ltd
     company_url: 'https://payconnect.co.ke/'
     location: Nairobi, Kenya
