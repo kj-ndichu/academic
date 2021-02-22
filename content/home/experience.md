@@ -22,5 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+- title: Lecturer
+    company: Transafric College
+    company_url: 'https://web.facebook.com/TACCOLLEGE/?_rdc=1&_rdr'
+    location: Thika Kenya
+    date_start: '2019 Jan'
+    date_end: '2020 Dec'
+    description: |2-
+        Taught the following:
+        * Programming
+        * Networking and Cyber Security
+        * Web Design
   
 ---
