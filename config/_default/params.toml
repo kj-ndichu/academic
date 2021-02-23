@@ -97,7 +97,7 @@ address = {street = "", city = "", region = "", postcode = "", country = "", cou
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-1.286389", longitude = "36.817223"}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -113,9 +113,9 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/kj_ndichu"},
-  {icon = "", icon_pack = "fab", name = "", link = ""},
-  {icon = "", icon_pack = "fab", name = "", link = ""},
-  {icon = "", icon_pack = "fas", name = "", link = ""},
+  {icon = "", icon_pack = "", name = "", link = ""},
+  {icon = "", icon_pack = "", name = "", link = ""},
+  {icon = "", icon_pack = "", name = "", link = ""},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
