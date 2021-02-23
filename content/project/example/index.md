@@ -16,10 +16,10 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/kj_ndichu
 url_code: "https://github.com/martinoywa/creative-gan"
 url_pdf: "https://www.martinoywa.engineer/pdf/DL_Generation_Concept_Car_Designs.pdf"
-url_slides: ""
+url_slides: "#"
 url_video: ""
 
 # Slides (optional).
