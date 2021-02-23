@@ -39,5 +39,10 @@ Learning’s application to a technique called Generative Adversarial Networks, 
 particular technique uses two competing Neural Networks; a Generator and a Discriminator,
 whereby the Generator generates images and the Discriminator assesses these images to test
 their quality. This is done iteratively until the generated images are as realistic as possible.
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/kj_ndichu
 
 App url: http://creativegan.herokuapp.com/
