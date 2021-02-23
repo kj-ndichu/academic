@@ -40,11 +40,11 @@ particular technique uses two competing Neural Networks; a Generator and a Discr
 whereby the Generator generates images and the Discriminator assesses these images to test
 their quality. This is done iteratively until the generated images are as realistic as possible.
 
-Group project by:
-  - Martin Oywa
-  - John K Ndichu
-  - Sarah Mukuti
-  - Ken Mutiso
-  - Shadrack Muteti
+Group project by
+ - Martin Oywa
+ - John K Ndichu
+ - Sarah Mukuti
+ - Ken Mutiso
+ - Shadrack Muteti
 
 App url: http://creativegan.herokuapp.com/
