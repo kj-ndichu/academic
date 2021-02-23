@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Deep Learning for Generation of Concept Car Designs.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -17,8 +17,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/georgecushen
-url_code: ""
-url_pdf: ""
+url_code: "https://github.com/martinoywa/creative-gan"
+url_pdf: "https://www.martinoywa.engineer/pdf/DL_Generation_Concept_Car_Designs.pdf"
 url_slides: ""
 url_video: ""
 
