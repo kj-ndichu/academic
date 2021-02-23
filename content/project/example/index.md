@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: Deep Learning for Generation of Concept Car Designs.
+title: Deep Learning for Generation of Concept Car Designs
+summary:
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
