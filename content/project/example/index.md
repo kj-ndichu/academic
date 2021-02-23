@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Sample generated image from the model 
   focal_point: Smart
 
 links:
@@ -39,3 +39,5 @@ Learning’s application to a technique called Generative Adversarial Networks, 
 particular technique uses two competing Neural Networks; a Generator and a Discriminator,
 whereby the Generator generates images and the Discriminator assesses these images to test
 their quality. This is done iteratively until the generated images are as realistic as possible.
+
+App url: http://creativegan.herokuapp.com/
