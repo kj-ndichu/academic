@@ -42,7 +42,7 @@ experience:
     date_start: '2018-01-01'
     date_end: '2019-12-12'
     description: |2-
-        Taught the following:
+        Responsibilities:
         
         * UI design for android apps and web apps.
         * Software testing and evaluation.
