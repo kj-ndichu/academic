@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Data Science
 - Web Development
-- Deep learning
+- Artificial Intelligence
 
 # Education to show in About widget
 education:
@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi. I'm John Ndichu, an experienced Software Developer. My key areas of experience and expertise include Web Development, Android Development(Native apps & PWAs) and Artificial Intelligence. I have worked with Companies and various teams as a Developer.
+Hi. I'm John Ndichu, an experienced Software Developer. My key areas of experience and expertise include Web Development, Android Development(Native apps & PWAs) and Artificial Intelligence(Deep learning and Neural networks). I have worked with various companies and different teams as a Developer.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
