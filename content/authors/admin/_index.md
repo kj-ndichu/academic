@@ -51,7 +51,7 @@ social:
   link: https://github.com/KamauNdichu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/kj-ndichu-4a2031206/
+  link: https://www.linkedin.com/in/kj-ndichu-819186208/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
