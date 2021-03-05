@@ -6,6 +6,6 @@ google_fonts = "family=Raleway:wght@200;300;400;600&display=swap"
 
 # Font families
 heading_font = "Raleway"
-body_font = "Roboto"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
