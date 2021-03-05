@@ -1,5 +1,5 @@
 # Font style metadata
-name = "Minimal"
+name = "my_font-set"
 
 # Optional Google font URL
 google_fonts = "family=Raleway:wght@200;300;400;600&display=swap"
