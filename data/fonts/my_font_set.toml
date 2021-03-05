@@ -3,9 +3,10 @@ name = "my_font-set"
 
 # Optional Google font URL
 google_fonts = "family=Raleway:wght@200;300;400;600&display=swap"
+google_fonts = "family=Josefin+Sans:wght@200;300;400;600&family=Raleway:wght@200;300;400;600&display=swap"
 
 # Font families
 heading_font = "Raleway"
 body_font = "Raleway"
-nav_font = "Raleway"
+nav_font = "Josefin Sans"
 mono_font = "Raleway"
