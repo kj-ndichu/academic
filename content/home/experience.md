@@ -29,11 +29,11 @@ experience:
     date_start: '2019-01-01'
     date_end: '2019-12-12'
     description: |2-
-        Taught the following:
+        Taught:
         
-        * Programming
+        * Programming (Java, C)
         * Networking and cyber security
-        * Web design
+        * Web development (React.js)
         
   - title: Software Developer
     company: Payconnect Ltd
@@ -44,6 +44,6 @@ experience:
     description: |2-
         Responsibilities:
         
-        * UI design for android apps and web apps.
+        * Web apps and Android apps development (React.js, React Native)
         * Software testing and evaluation.
 ---
